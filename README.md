@@ -1,5 +1,5 @@
 # Coursera-Financial-Aid-Answers
-For developments specifically
+For Developments specifically.
 
 
 <b>Why are you applying for Financial Aid?</b> (150 words minimum required)
